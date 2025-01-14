@@ -1,6 +1,6 @@
 # MuJo: Multimodal Joint Feature Space Learning for Human Activity Recognition
 
-This repository contains the data for the paper "MuJo: Multimodal Joint Feature Space Learning for Human Activity Recognition" (https://arxiv.org/pdf/2406.03857).
+This repository contains the data for the paper "MuJo: Multimodal Joint Feature Space Learning for Human Activity Recognition".
 
 ## Repository Structure
 
