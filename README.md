@@ -8,9 +8,7 @@ The repository is organized into the following directories:
 
 - `data/`: Contains the most important data files used in this project.
   - `youtube_links.txt`: A list of YouTube links to the 1388 videos used in this study.
-  - `train_video_ids.txt`: Text file containing video IDs used for training.
-  - `val_video_ids.txt`: Text file containing video IDs used for validation.
-  - `test_video_ids.txt`: Text file containing video IDs used for testing.
+  - `train_val_split.json`: Text file containing the train and validation video IDs used for training our MuJo models. Video IDs follow the format $youtubeID___$chapterID, where $youtubeID is the YouTube ID of the video and $chapterID specifies the chapter within that video.
   - `language_data.json`: A JSON file mapping each video ID to its chapter, normalized chapters, subtitles, and descriptions generated with GPT-3.5 Turbo.
 
 - `src/`: Coming soon ...
